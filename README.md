@@ -10,7 +10,7 @@ Docket #: 2022-1749
 Date: 2022-07-14
 
 1/5
-<iframe src="https://drive.google.com/file/d/1dsUiO8S4ALSanUo39xUQ2KL0VhnUiA87/view?usp=edit" width="120%" height="700px"></iframe>
+<iframe src="https://tylertitus14.github.io/assets/2022-07-14--2022-1749--1.pdf" width="120%" height="700px"></iframe>
 <br>
 2/5
 <iframe src="https://tylertitus14.github.io/assets/2022-07-14--2022-1749--2.pdf" width="120%" height="700px"></iframe>
@@ -27,7 +27,7 @@ Date: 2022-07-14
 #################################  
 #################################  
 #################################
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 #################################  
 #################################  
 #################################
