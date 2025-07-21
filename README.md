@@ -3,8 +3,7 @@ Docket, Docket Entries, Transcripts - 2022-1749 (P.F.A.), 2018-802 (Custody), 20
 <br><br><br><br>
 #################################
 <br><br><br>
-2022-07-14  
-2022-1749
+2022-07-14<br><br>2022-1749
 <br><br><br>
 1/5
 <br>
