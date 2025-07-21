@@ -37,16 +37,16 @@ Docket #: 2022-1749
 Date: 2022-07-27
 
 1/4
-<iframe src="https//:.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://tylertitus14.github.io/assets/2022-07-27--2022-1749--1.pdf" width="120%" height="700px"></iframe>
 <br>
 2/4
-<iframe src="https//:.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://tylertitus14.github.io/assets/2022-07-27--2022-1749--2.pdf" width="120%" height="700px"></iframe>
 <br>
 3/4
-<iframe src="https//:.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://tylertitus14.github.io/assets/2022-07-27--2022-1749--3.pdf" width="120%" height="700px"></iframe>
 <br>
 4/4
-<a href="https://.pdf">https://.pdf</a> (Costs)
+<a href="https://tylertitus14.github.io/assets/2022-07-27--2022-1749--4.pdf">https://tylertitus14.github.io/assets/2022-07-27--2022-1749--4.pdf</a> (Costs)
 
 #################################  
 #################################  
