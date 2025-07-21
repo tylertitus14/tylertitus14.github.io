@@ -21,8 +21,8 @@ Date: 2022-07-14
 4/5
 <iframe src="https://tylertitus14.github.io/assets/2022-07-14--2022-1749--4.pdf" width="120%" height="700px"></iframe>
 <br>
-5/5  
-
+5/5
+<br>
 <a href="https://tylertitus14.github.io/assets/2022-07-14--2022-1749--5.pdf">https://tylertitus14.github.io/assets/2022-07-14--2022-1749--5.pdf</a> (Redundant)
 
 #################################  
@@ -47,7 +47,7 @@ Date: 2022-07-27
 <iframe src="https://tylertitus14.github.io/assets/2022-07-27--2022-1749--3.pdf" width="120%" height="700px"></iframe>
 <br>
 4/4
-
+<br>
 <a href="https://tylertitus14.github.io/assets/2022-07-27--2022-1749--4.pdf">https://tylertitus14.github.io/assets/2022-07-27--2022-1749--4.pdf</a> (Costs)
 
 #################################  
@@ -63,7 +63,7 @@ Docket #: 2022-1749
 Date: 2022-06-30
 
 1/1
-<iframe src="https://tylertitus14.github.io/assets/2022-06-30--2022-1749--1.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://tylertitus14.github.io/assets/2025-06-30--2022-1749--1.pdf" width="120%" height="700px"></iframe>
 
 #################################  
 #################################  
@@ -77,7 +77,7 @@ Docket #: 2022-1749
 Date: 2022-07-01
 
 1/1
-<iframe src="https://tylertitus14.github.io/assets/2022-07-01--2022-1749--1.pdf" width="120%" height="700px"></iframe>
+<iframe src="https://tylertitus14.github.io/assets/2025-07-01--2022-1749--1.pdf" width="120%" height="700px"></iframe>
 
 #################################  
 #################################  
